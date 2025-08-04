@@ -1,5 +1,5 @@
 const soma = (a,b) => {a+b;}
 
-const multiplicar = (a,b) => {a*b;}
+const mult = (a,b) => {a*b;}
 
-module.exports = {soma, multiplicar}
+module.exports = {soma, mult}
